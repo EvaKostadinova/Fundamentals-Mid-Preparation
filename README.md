@@ -1,0 +1,2 @@
+# Fundamentals-Mid-Preparation
+JavaScript
